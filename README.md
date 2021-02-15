@@ -1,4 +1,4 @@
-# botbbb21
+# botbbb21 1.0
 Primeiro Bot de votação desenvolvido para o BBB21.
 
 # Requisitos de funcionamento
@@ -21,6 +21,7 @@ Primeiro Bot de votação desenvolvido para o BBB21.
 1. Para pausar o Bot, pressione ctrl + v .
 2. Note que algumas vezes em que o script for executado, o voto não será computado. Quando isso ocorrer, basta executar o script novamente e selecionar a opção SIM.
 3. O sistema da Globo reconhece se você fez muitos votos, então é normal que algumas vezes ele demore para processar os votos.
+4. ESTA VER~SAO FUNCIONA APENAS PARA VOTAR NO NEGO DI .
 
 # Report de Bug's
 
