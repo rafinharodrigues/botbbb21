@@ -1,4 +1,4 @@
-# botbbb21 1.0
+# botbbb21 (2.0)
 Primeiro Bot de votação desenvolvido para o BBB21.
 
 # Requisitos de funcionamento
