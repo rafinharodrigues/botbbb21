@@ -44,6 +44,6 @@ Visando compartilhar o script com a comunidade, pensei em usar a função PixelS
 Logo em seguida, apliquei outro PixelSearch para buscar um pixel específico do hCaptcha e, também apliquei uma pequena equação para fazer a mesma coisa ( clicar um pouco mais a esquerda do pixel ). Dessa forma o voto seria computado e iria para a tela de "Votar novamente". E da mesma forma, apliquei uma terceira função para reconhecer o botão de votar novamente e clicar em cima dele finalizando o ciclo.
 Após tudo isso, coloquei todas estas funções em um Loop para ficar votando infinitamente, ou até aperta "ctrl + v".
 
-FIM
+# FIM
 
 E, assim, o script ainda está funcionando. No entanto, para trocar o alvo de voto, basta trocar o hexadecimal do pixel alvo da próxima vez.
