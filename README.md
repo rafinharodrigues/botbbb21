@@ -56,4 +56,5 @@ E, assim, o script ainda está funcionando. No entanto, para trocar o alvo de vo
    Correção de Bug's e melhorias.
    
    OBSERVAÇÕES IMPORTANTES
+   
       O hCaptcha utilizado pela Globo está solicitando ao usuário, desta vez, mais frequentemente que o resolva. Então para a maioria não será possível votar perpetuamente, pois       depois de alguns votos feitos pelo bot, o hCaptcha é ativado. Estou tentando maneiras de conseguir passar por isso. Mais att em breve.
