@@ -52,9 +52,14 @@ E, assim, o script ainda está funcionando. No entanto, para trocar o alvo de vo
 # VERSÕES
 
 * 2.1.1
-   Agora o usuário pode votar, único e exclusivamente na participante "Karol Konka".
-   Correção de Bug's e melhorias.
+   * Agora o usuário pode votar, único e exclusivamente na participante "Karol Konka".
+   * Correção de Bug's e melhorias.
    
    OBSERVAÇÕES IMPORTANTES:
    
-   O hCaptcha utilizado pela Globo está solicitando ao usuário, desta vez, mais frequentemente que o resolva. Então para a maioria não será possível votar perpetuamente, pois      depois de alguns votos feitos pelo bot, o hCaptcha é ativado. Estou tentando maneiras de conseguir passar por isso. Mais att em breve.
+   * O hCaptcha utilizado pela Globo está solicitando ao usuário, desta vez, mais frequentemente que o resolva. Então para a maioria não será possível votar perpetuamente, pois      depois de alguns votos feitos pelo bot, o hCaptcha é ativado. Estou tentando maneiras de conseguir passar por isso. Mais att em breve.
+   
+   RECOMENDAÇÃO DE USO
+   
+   * Antes de executar o script, recomendo que diminua o zoom do seu navegador ( de preferência o chrome ) para 75%.
+   * Tenha um AdBlock instalado, o script funcionará melhor.
