@@ -47,3 +47,13 @@ Após tudo isso, coloquei todas estas funções em um Loop para ficar votando in
 # FIM
 
 E, assim, o script ainda está funcionando. No entanto, para trocar o alvo de voto, basta trocar o hexadecimal do pixel alvo da próxima vez.
+
+
+# VERSÕES
+
+* 2.1.1
+   Agora o usuário pode votar, único e exclusivamente na participante "Karol Konka".
+   Correção de Bug's e melhorias.
+   
+   OBSERVAÇÕES IMPORTANTES
+      O hCaptcha utilizado pela Globo está solicitando ao usuário, desta vez, mais frequentemente que o resolva. Então para a maioria não será possível votar perpetuamente, pois       depois de alguns votos feitos pelo bot, o hCaptcha é ativado. Estou tentando maneiras de conseguir passar por isso. Mais att em breve.
